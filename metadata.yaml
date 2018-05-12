@@ -1,10 +1,13 @@
 _repo: Arthurian-Chronicles--Roman-de-Brut_10472
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Mason, Eugene
     gutenberg_agent_id: '5102'
     url: http://www.gutenberg.org/2009/agents/5102
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wace
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3548
     wikipedia: http://en.wikipedia.org/wiki/Wace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10472#Arthurian-Chronicles--Roman-de-Brut
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
